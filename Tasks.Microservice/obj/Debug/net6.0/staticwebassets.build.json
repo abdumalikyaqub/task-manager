@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EDHDE6FGInkOXUKtJ7CVMwAxb2RuErQa689t42nU09c=",
+  "Source": "Tasks.Microservice",
+  "BasePath": "_content/Tasks.Microservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

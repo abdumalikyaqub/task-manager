@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "72/JRSejz/8W7O336eMafA+ssdmc8W1Qo3tPuNAUmSk=",
+  "Source": "TaskManager.APIGateway",
+  "BasePath": "_content/TaskManager.APIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
